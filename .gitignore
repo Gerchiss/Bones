@@ -1,0 +1,4 @@
+"# Archivos y carpetas que se deben ignorar en Git" 
+"*.log" 
+"node_modules/" 
+Library/
